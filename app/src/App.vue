@@ -34,8 +34,8 @@ export default {
       showHeader: true,
       firstName: 'André',
       lastName: 'Hlesk',
-      showName: false,
-      acessLevel: 'admin'
+      showName: true,
+      //acessLevel: 'admin'
     }
   }
 }
